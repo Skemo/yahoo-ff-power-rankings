@@ -1,0 +1,6 @@
+Django==1.10.7
+psycopg2==2.7.3
+myql==1.2.7
+requests==2.18.4
+beautifulsoup4==4.6.0
+lxml==4.0.0

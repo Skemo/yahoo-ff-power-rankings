@@ -1,0 +1,13 @@
+# Python bytecode:
+*.py[co]
+
+# Mac
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+rankings/credentials.json
+oneleagueranks/settings/base_main.py
